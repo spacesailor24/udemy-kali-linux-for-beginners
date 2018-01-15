@@ -57,14 +57,20 @@ Basics of Commands | [Lecture 6](#section-1-lecture-6)
 
 #### Command Structures
 
-Command Options | Command Arguments
---- | ---
-Changes the tool/command's behavior | Extra pieces of information to tell the commands what to act on
-Options is preceded by a hyphen | Arguments come after Options
-Can be grouped | e.g. ls -l /Desktop
-e.g. ls -alt |
-Word options use double hyphens |
-e.g. ls --help |
+Command Options
+--- |
+Changes the tool/command's behavior
+Options is preceded by a hyphen
+Can be grouped
+e.g. ls -alt
+Word options use double hyphens
+e.g. ls --help
+
+Command Arguments
+--- |
+Extra pieces of information to tell the commands what to act on
+Arguments come after Options
+e.g. ls -l /Desktop
 
 - **pwd** - Print working directory
 - **cd** - Change directory
